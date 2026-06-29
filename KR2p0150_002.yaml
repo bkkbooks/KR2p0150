@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0150/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二子曰有國者章好章惡以視民厚則民情不忒詩云靖共爾位好是正直
+  hash: sha256:5d40e55285a3c5a5f94035e4c4267ed01e9a7f8d208dd4cef161b0cc197553cf
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0150_CHANT_002-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0150.xml
+hash: sha256:de054ca5d7c48f2ec82d5fdb4cc805cf618ad207f726f223a1c3176a13023590

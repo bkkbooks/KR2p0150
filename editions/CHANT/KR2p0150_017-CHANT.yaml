@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0150/chant/v1/juan/17
+seq: 17
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十七子曰言從行之則行不可匿故君子顧言而行以成其信則民不能大其美而小其惡大雅云白珪之石尚可磨也此言之玷不可為也小雅云允也君子展也大成君奭云昔在上帝割紳觀文王德其集大命于厥身
+  hash: sha256:6a377c65597c1a6e427b97694ff9cfcb6dcab5aaadec454814ff3dc4d8050875
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0150_CHANT_017-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0150.xml
+hash: sha256:6e1b8e7102fe6c2ddf840628fa04b15385a2a30dddc18fb26f1406ea4ee7f54b

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0150/chant/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十六子曰君子道人以言而恒以行故言則慮其所終行則稽其所敝則民慎於言而謹於行詩云穆穆文王於緝熙敬止
+  hash: sha256:a464bcc43c8dce16935380452d4ec46745107df868c1831762e4fa42c9dbb51c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0150_CHANT_016-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0150.xml
+hash: sha256:e0ab90b8713b15e24dbd6f10bce6a9948ed5ba3caef8a521d910b1ec268c7461
