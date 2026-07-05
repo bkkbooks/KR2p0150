@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十二子曰長民者教之以德齊之以禮則民有勸心教之以政齊之以刑則民有免心故慈以愛之則民有親信以結之則民不倍恭以蒞之則民有遜心詩云吾夫夫恭且儉靡人不斂呂型云非用臸制以刑惟作五瘧之刑曰法
-  hash: sha256:f6274c9141d12bdb0c5402f4f3bf93c31cb488aae6ddfb7eaebca7a914de67d2
+  text: 十二子曰長民者教之以德齊之以禮則民有勸心教之以政齊之以刑則民有免心故慈以愛之則民有親信以結之則民不倍恭以莅之則民有遜心詩云吾夫夫恭且儉靡人不斂呂型云非用臸制以刑惟作五瘧之刑曰法
+  hash: sha256:cb895e440002053371b2d3d25d8e7ca7fed34670e959ded6696311d04295fb29
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0150_CHANT_012-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0150.xml
-hash: sha256:678ea95822f17cb59dccac81b4c700e9d84f10fd1aa7fa27787f7eb56049e7b2
+hash: sha256:a3b13f4e4070fbf9de75429d01794128fd623fe085468d4f0f6828e4d3251187

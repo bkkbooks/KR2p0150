@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十四子曰王言如絲其出如緍王言如索其出如紼故大人不倡流言詩云慎爾出話敬爾威儀
-  hash: sha256:3907cfb739506a871c57fd35e9b0f687ba7016347a3c43f796f49594464e5355
+  text: 十四子曰王言如絲其出如緍王言如索其出如紼故大人不倡流言詩云慎尔出話敬尔威儀
+  hash: sha256:abc0a188190d0ad1111003438546708d2f9e3ba0ddd01902243a22c6de7773fc
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0150_CHANT_014-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0150.xml
-hash: sha256:2c85d5ca39c0561f07bc96f98ef220ca7ff575a5d202215064d83f3059633cea
+hash: sha256:51c04c25ba0220fe790f263f0ef9b94a81a3b6327b82ca0981583aab31964667
