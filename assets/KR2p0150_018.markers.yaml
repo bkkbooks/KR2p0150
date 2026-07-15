@@ -43,10 +43,11 @@ markers:
   - {type: punctuation, offset: 58, content: ：, id: KR2p0150_CHANT_018-bkkpn21}
   - {type: 'tls:seg', offset: 58, content: '', id: KR2p0150_CHANT_018-1a.17}
   - {type: punctuation, offset: 58, content: 「, id: KR2p0150_CHANT_018-bkkpn22}
+  - {type: substitution, offset: 61, original: 尔, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16262}}
   - {type: punctuation, offset: 65, content: ，, id: KR2p0150_CHANT_018-bkkpn23}
   - {type: 'tls:seg', offset: 65, content: '', id: KR2p0150_CHANT_018-1a.18}
   - {type: punctuation, offset: 68, content: 。, id: KR2p0150_CHANT_018-bkkpn24}
   - {type: punctuation, offset: 68, content: 」, id: KR2p0150_CHANT_018-bkkpn25}
   - {type: xml-element, offset: 68, content: '', id: KR2p0150_CHANT_018-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:7463d5b6d6af155258d233f3b7640b9215b1217fdbca136af00a33eb7e3aabc4
+hash: sha256:990521ccea20558264c28f2344687ab765f192343fca61bb05b3db2ffc67d8b4

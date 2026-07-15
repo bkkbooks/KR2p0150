@@ -25,10 +25,11 @@ markers:
   - {type: punctuation, offset: 34, content: ：, id: KR2p0150_CHANT_015-bkkpn10}
   - {type: 'tls:seg', offset: 34, content: '', id: KR2p0150_CHANT_015-1a.10}
   - {type: punctuation, offset: 34, content: 「, id: KR2p0150_CHANT_015-bkkpn11}
+  - {type: substitution, offset: 36, original: 尔, replacement: 爾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16262}}
   - {type: punctuation, offset: 38, content: ，, id: KR2p0150_CHANT_015-bkkpn12}
   - {type: 'tls:seg', offset: 38, content: '', id: KR2p0150_CHANT_015-1a.11}
   - {type: punctuation, offset: 42, content: 。, id: KR2p0150_CHANT_015-bkkpn13}
   - {type: punctuation, offset: 42, content: 」, id: KR2p0150_CHANT_015-bkkpn14}
   - {type: xml-element, offset: 42, content: '', id: KR2p0150_CHANT_015-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:f3d0022f47b645cfa02a10d51b4dd941275f22d52301b4297c9faeb7aa7ff2cb
+hash: sha256:3d0ce84d63776dcd906840b6e74610740f5b9b10f167d76225f700692b0b1896
